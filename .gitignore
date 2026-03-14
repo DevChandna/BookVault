@@ -1,0 +1,34 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/logs
+/mvnw.cmd
+/mvnw
+/mvnw.cmd
+/boot-restart
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Node
+/node_modules/
+/dist/
+/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
